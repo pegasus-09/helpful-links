@@ -1,4 +1,4 @@
 # helpful-links
 Links
 
-[google.com]
+[Google](google.com)
